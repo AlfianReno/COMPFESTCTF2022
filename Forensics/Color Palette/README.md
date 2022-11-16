@@ -1,4 +1,4 @@
-## Color Pallete
+## Color Palette
 
 ![chall](attachments/chall.png)
 
