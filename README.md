@@ -21,3 +21,19 @@ Rating weight: 21.85
 Maaf kalau ada challenge yang gaada di writeup, karena probset sudah mematikan service pada challenge tersebut.
 
 ![leaderboard](attachments/leaderboard.png)
+
+## Binary Exploitation
+
+- [Smart Identifier](https://github.com/AlfianReno/COMPFESTCTF-2022/tree/master/Binary%20Exploitation/Smart%20Identifier)
+
+## Forensics
+
+- [Color Palette](https://github.com/AlfianReno/COMPFESTCTF-2022/tree/master/Forensics/Color%20Palette)
+
+- [c0rR3ct10n](https://github.com/AlfianReno/COMPFESTCTF-2022/tree/master/Forensics/c0rR3ct10n)
+
+## OSINT
+
+- [I Forgot Something Important](https://github.com/AlfianReno/COMPFESTCTF-2022/tree/master/OSINT/I%20Forgot%20Something%20Important)
+
+- [Rookie Mistake](https://github.com/AlfianReno/COMPFESTCTF-2022/tree/master/OSINT/Rookie%20Mistake)
